@@ -9,8 +9,8 @@ This is a hardware implementation of the GCM-SST mode for the block cipher AES. 
 
 
 ## References
-- Matthew Campagna, Alexander Maximov, John Preuß Mattsson
-- [Galois Counter Mode with Secure Short Tags (GCM-SST) (pdf)](https://csrc.nist.gov/csrc/media/Events/2023/third-workshop-on-block-cipher-modes-of-operation/documents/accepted-papers/Galois%20Counter%20Mode%20with%20Secure%20Short%20Tags.pdf)
+1. Matthew Campagna, Alexander Maximov, John Preuß Mattsson
+  - [Galois Counter Mode with Secure Short Tags (GCM-SST) (pdf)](https://csrc.nist.gov/csrc/media/Events/2023/third-workshop-on-block-cipher-modes-of-operation/documents/accepted-papers/Galois%20Counter%20Mode%20with%20Secure%20Short%20Tags.pdf)
 
-- Matthew Campagna, Alexander Maximov, John Preuß Mattsson
-- [draft-mattsson-cfrg-aes-gcm-sst-latest: Galois Counter Mode with Strong Secure Tags (GCM-SST)](https://emanjon.github.io/draft-mattsson-cfrg-aes-gcm-sst/draft-mattsson-cfrg-aes-gcm-sst.html)
+2. Matthew Campagna, Alexander Maximov, John Preuß Mattsson
+   - [draft-mattsson-cfrg-aes-gcm-sst-latest: Galois Counter Mode with Strong Secure Tags (GCM-SST)](https://emanjon.github.io/draft-mattsson-cfrg-aes-gcm-sst/draft-mattsson-cfrg-aes-gcm-sst.html)
